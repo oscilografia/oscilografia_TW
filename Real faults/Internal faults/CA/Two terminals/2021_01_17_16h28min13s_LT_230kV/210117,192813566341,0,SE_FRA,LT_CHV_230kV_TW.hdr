@@ -1,0 +1,18 @@
+Trigger					^FRA_85NP  |  ^FRA_67NP  |  ^FRA_67NA
+Date					2021-01-17T16:30:30-0300
+Equipment				Ready
+Equipment synchronization		Locked
+Time quality			Locked
+Memory usage
+	Fault recorder		15.72%
+	Disturbance recorder		16.48%
+	Traveling wave recorder		19.70%
+	Steady-state recorder		4.64%
+	SOE recorder			4.68%
+	Log			69.80%
+Temperature				44ºC
+Coolers
+	Lateral				ok
+	Rear				ok
+Last power-up				2020-12-15T15:58:04-03:00
+Firmware version				RPV311-14A03.00

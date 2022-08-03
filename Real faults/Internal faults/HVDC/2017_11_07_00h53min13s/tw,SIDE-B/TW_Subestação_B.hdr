@@ -1,0 +1,18 @@
+Trigger					AR2-VDL3 < 500000 V
+Date					2017-11-07T00:55:31-0300
+Equipment				Ready
+Equipment synchronization		Locked
+Time quality			Locked
+Memory usage
+	Fault recorder		60.54%
+	Disturbance recorder		26.12%
+	Traveling wave recorder		9.83%
+	Steady-state recorder		3.27%
+	SOE recorder			3.42%
+	Log			42.92%
+Temperature				40ºC
+Coolers
+	Lateral				ok
+	Rear				ok
+Last power-up				2017-09-16T08:11:53-03:00
+Firmware version				RPV311-13A05.00

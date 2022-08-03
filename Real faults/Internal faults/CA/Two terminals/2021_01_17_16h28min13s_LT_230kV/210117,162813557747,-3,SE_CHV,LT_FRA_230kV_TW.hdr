@@ -1,0 +1,22 @@
+Trigger					^CHV_21P  |  ^CHV_21A  |  ^CHV_TXP  |  ^CHV_TXA
+Date					2021-01-17T19:30:32+0000
+Equipment				Ready
+Equipment synchronization		Locked
+Time quality			Locked
+Memory usage
+	Fault recorder		15.91%
+	Disturbance recorder		28.04%
+	Traveling wave recorder		58.43%
+	Steady-state recorder		7.25%
+	SOE recorder			4.60%
+	Log			14.93%
+Primary power				Good
+Battery					Charging...
+Temperature				40ºC
+Coolers
+	Enclosure 1			ok
+	Enclosure 2			ok
+	Processing module		ok
+	Power supply			ok
+Last power-up				2019-07-10T12:39:05-03:00
+Firmware version				RPV310-41A00.00

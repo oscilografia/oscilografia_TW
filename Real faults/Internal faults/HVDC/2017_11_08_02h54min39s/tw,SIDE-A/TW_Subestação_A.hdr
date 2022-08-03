@@ -1,0 +1,18 @@
+Trigger					SE_A  |  CPV-VDL3 < 380000 V
+Date					2017-11-08T02:53:31-0300
+Equipment				Ready
+Equipment synchronization		Locked
+Time quality			Locked
+Memory usage
+	Fault recorder		44.83%
+	Disturbance recorder		89.99%
+	Traveling wave recorder		25.74%
+	Steady-state recorder		3.27%
+	SOE recorder			4.21%
+	Log			37.12%
+Temperature				41ºC
+Coolers
+	Lateral				ok
+	Rear				ok
+Last power-up				2017-10-05T13:18:01-03:00
+Firmware version				RPV311-12A00.00

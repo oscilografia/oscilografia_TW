@@ -1,0 +1,18 @@
+Trigger					SE_A-P3-DCLFP-OP  |  SE_A-VDL3 < 500000 V
+Date					2017-11-07T00:52:12-0300
+Equipment				Ready
+Equipment synchronization		Locked
+Time quality			Locked
+Memory usage
+	Fault recorder		43.64%
+	Disturbance recorder		89.98%
+	Traveling wave recorder		24.28%
+	Steady-state recorder		3.27%
+	SOE recorder			4.21%
+	Log			36.23%
+Temperature				44ºC
+Coolers
+	Lateral				ok
+	Rear				ok
+Last power-up				2017-10-05T13:18:01-03:00
+Firmware version				RPV311-12A00.00

@@ -1,0 +1,22 @@
+Trigger					ABC[V_BARRA_230kV] < 0.85 PU  |  ABC[I_MGA_230kV] > 1440 A
+Date					2021-04-12T10:25:59-0300
+Equipment				Ready
+Equipment synchronization		Locked
+Time quality			Locked
+Memory usage
+	Fault recorder		3.38%
+	Disturbance recorder		11.22%
+	Traveling wave recorder		12.44%
+	Steady-state recorder		3.98%
+	SOE recorder			52.53%
+	Log			17.72%
+Primary power				Good
+Battery					Charging...
+Temperature				34ºC
+Coolers
+	Enclosure 1			ok
+	Enclosure 2			ok
+	Processing module		ok
+	Power supply			ok
+Last power-up				2021-03-14T00:02:21-03:00
+Firmware version				RPV310-41A00.00

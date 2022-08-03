@@ -1,0 +1,18 @@
+Trigger					SE_B < 500000 V
+Date					2017-11-08T00:10:45-0300
+Equipment				Ready
+Equipment synchronization		Locked
+Time quality			Locked
+Memory usage
+	Fault recorder		61.01%
+	Disturbance recorder		26.59%
+	Traveling wave recorder		10.56%
+	Steady-state recorder		3.27%
+	SOE recorder			3.42%
+	Log			43.34%
+Temperature				39ºC
+Coolers
+	Lateral				ok
+	Rear				ok
+Last power-up				2017-09-16T08:11:53-03:00
+Firmware version				RPV311-13A05.00

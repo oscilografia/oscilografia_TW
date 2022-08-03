@@ -1,0 +1,13 @@
+Trigger					SDI_21P
+Date					2021-04-12T13:26:00+0000
+Equipment				Ready
+Equipment synchronization		Locked
+Time quality			Locked
+Memory usage
+	Fault recorder		3.79%
+	Disturbance recorder		10.17%
+	Traveling wave recorder		23.75%
+	Steady-state recorder		5.60%
+	SOE recorder			3.84%
+	Log			27.64%
+Firmware version				RPV311-14A03.00
