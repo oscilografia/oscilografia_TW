@@ -1,0 +1,22 @@
+Trigger					RX_POTT_D67_CVO
+Date					2015-11-14T16:44:51-0300
+Equipment				Ready
+Equipment synchronization		Locked
+Time quality			Locked
+Memory usage
+	Fault recorder		22.60%
+	Disturbance recorder		1.63%
+	Traveling wave recorder		24.49%
+	Steady-state recorder		7.62%
+	SOE recorder			4.53%
+	Log			11.12%
+Primary power				Good
+Battery					Charging...
+Temperature				37ºC
+Coolers
+	Enclosure 1			ok
+	Enclosure 2			ok
+	Processing module		ok
+	Power supply			ok
+Last power-up				2015-09-02T15:18:17-03:00
+Firmware version				RPV310-39A03

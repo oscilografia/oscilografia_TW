@@ -1,0 +1,13 @@
+Trigger					GRA_POTT67NP_PP  |  GRA_POTT67NP_PA  |  N[TC_525kV_LT_GRA] > 240 A
+Date					2019-10-06T07:52:30-0300
+Equipment				Ready
+Equipment synchronization		Locked
+Time quality			Locked
+Memory usage
+	Fault recorder		37.03%
+	Disturbance recorder		1.63%
+	Traveling wave recorder		14.76%
+	Steady-state recorder		3.27%
+	SOE recorder			3.53%
+	Log			14.91%
+Firmware version				RPV311-14A01.00
