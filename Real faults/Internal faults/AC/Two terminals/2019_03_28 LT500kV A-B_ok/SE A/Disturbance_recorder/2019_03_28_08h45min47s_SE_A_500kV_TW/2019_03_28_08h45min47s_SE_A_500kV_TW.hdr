@@ -1,0 +1,22 @@
+Trigger					^A_DJ705  |  ^B_DJ705  |  ^V_DJ705
+Date					2019-03-28T08:47:19-0300
+Equipment				Ready
+Equipment synchronization		Locked
+Time quality			Locked
+Memory usage
+	Fault recorder		2.92%
+	Disturbance recorder		19.56%
+	Traveling wave recorder		89.97%
+	Steady-state recorder		3.27%
+	SOE recorder			4.29%
+	Log			17.00%
+Primary power				Good
+Battery					Charging...
+Temperature				27ºC
+Coolers
+	Enclosure 1			ok
+	Enclosure 2			ok
+	Processing module		ok
+	Power supply			ok
+Last power-up				2017-05-08T08:33:57-03:00
+Firmware version				RPV310-41A00.00

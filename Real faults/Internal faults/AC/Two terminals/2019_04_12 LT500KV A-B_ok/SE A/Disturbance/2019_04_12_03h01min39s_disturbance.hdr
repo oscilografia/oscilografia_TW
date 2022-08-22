@@ -1,0 +1,25 @@
+Trigger				^RXTDDRGV
+Date				2019-04-12T03:10:39-0300
+Equipment			Ready
+Equipment synchronization		Locked
+Time quality			Locked
+Memory usage
+	Fault recorder		2.93%
+	Disturbance recorder		19.69%
+	Traveling wave recorder		89.97%
+	Steady-state recorder		3.27%
+	SOE recorder			4.30%
+	Log			16.44%
+Primary power			Good
+Battery				Charging...
+Temperature			27ºC
+Coolers
+	Enclosure 1		ok
+	Enclosure 2		ok
+	Processing module		ok
+	Power supply		ok
+Last power-up			2017-05-08T08:33:57-03:00
+Firmware version			RPV310-41A00.00
+Configuration revision		20
+CFG file MD5SUM			9ba644ed450923c8b9723f988386dd32
+DAT file MD5SUM			411ef9d8cc549417d2c13c1cb3839897

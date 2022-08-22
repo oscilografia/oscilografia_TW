@@ -1,0 +1,22 @@
+Trigger					N[SE_A] > 0.07 PU  |  ^21P_F  |  ^67NP_I_T  |  ^21A_F  |  ^67NA_I_T  |  ^RXTDDRGV  |  ^SOFTRGV
+Date					2019-03-28T08:44:04-0300
+Equipment				Ready
+Equipment synchronization		Locked
+Time quality			Locked
+Memory usage
+	Fault recorder		2.92%
+	Disturbance recorder		19.56%
+	Traveling wave recorder		89.96%
+	Steady-state recorder		3.27%
+	SOE recorder			4.29%
+	Log			16.99%
+Primary power				Good
+Battery					Charging...
+Temperature				27ºC
+Coolers
+	Enclosure 1			ok
+	Enclosure 2			ok
+	Processing module		ok
+	Power supply			ok
+Last power-up				2017-05-08T08:33:57-03:00
+Firmware version				RPV310-41A00.00

@@ -1,0 +1,25 @@
+Trigger				PPPA_79
+Date				2020-04-15T14:18:36-0300
+Equipment			Ready
+Equipment synchronization		Locked
+Time quality			Locked
+Memory usage
+	Fault recorder		89.99%
+	Disturbance recorder		2.82%
+	Traveling wave recorder		89.88%
+	Steady-state recorder		89.99%
+	SOE recorder			4.74%
+	Log			21.30%
+Primary power			Good
+Battery				Charging...
+Temperature			35ºC
+Coolers
+	Enclosure 1		ok
+	Enclosure 2		ok
+	Processing module		ok
+	Power supply		ok
+Last power-up			2018-09-28T10:10:25-03:00
+Firmware version			RPV310-41A00.00
+Configuration revision		12
+CFG file MD5SUM			b31ebaf89c33c71d29de2cd56039f855
+DAT file MD5SUM			09eacb3d684ebf16fc2fdc16a483fe2f

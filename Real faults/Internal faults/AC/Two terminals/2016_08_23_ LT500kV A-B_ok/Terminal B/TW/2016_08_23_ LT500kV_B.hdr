@@ -1,0 +1,13 @@
+Trigger					N[I_SE_B] > 300 A
+Date					2016-08-23T13:03:52-0300
+Equipment				Ready
+Equipment synchronization		Locked
+Time quality			Locked
+Memory usage
+	Fault recorder		7.67%
+	Disturbance recorder		7.77%
+	Traveling wave recorder		39.27%
+	Steady-state recorder		3.27%
+	SOE recorder			3.48%
+	Log			16.39%
+Firmware version				RPV311-13A05.00

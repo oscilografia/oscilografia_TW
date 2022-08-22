@@ -1,0 +1,25 @@
+Trigger				ABC[V_LT] > 1.25 PU
+Date				2020-04-15T14:30:19-0300
+Equipment			Ready
+Equipment synchronization		Locked
+Time quality			Locked
+Memory usage
+	Fault recorder		3.15%
+	Disturbance recorder		39.72%
+	Traveling wave recorder		83.75%
+	Steady-state recorder		6.39%
+	SOE recorder			4.83%
+	Log			14.98%
+Primary power			Good
+Battery				Charging...
+Temperature			35ºC
+Coolers
+	Enclosure 1		ok
+	Enclosure 2		ok
+	Processing module		ok
+	Power supply		ok
+Last power-up			2020-01-20T13:57:53-03:00
+Firmware version			RPV310-41A00.00
+Configuration revision		14
+CFG file MD5SUM			d2660ddff11371ec17e630ea463b67da
+DAT file MD5SUM			a300afd2b288193897136862ee6e6a52

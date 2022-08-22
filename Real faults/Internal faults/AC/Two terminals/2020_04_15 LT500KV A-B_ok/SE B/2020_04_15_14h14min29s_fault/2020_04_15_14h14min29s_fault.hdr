@@ -1,0 +1,27 @@
+Trigger				ABC[I_LT] > 2200 A  |  PP_UNIT_FASE  |  PA_UNIT_FASE  |  PPPA_TX  |  PPPA_RX
+Fault location
+	LT_ITC500		No fault
+Date				2020-04-15T14:14:32-0300
+Equipment			Ready
+Equipment synchronization		Locked
+Time quality			Locked
+Memory usage
+	Fault recorder		3.14%
+	Disturbance recorder		39.60%
+	Traveling wave recorder		83.63%
+	Steady-state recorder		6.39%
+	SOE recorder			4.83%
+	Log			14.92%
+Primary power			Good
+Battery				Charging...
+Temperature			35ºC
+Coolers
+	Enclosure 1		ok
+	Enclosure 2		ok
+	Processing module		ok
+	Power supply		ok
+Last power-up			2020-01-20T13:57:53-03:00
+Firmware version			RPV310-41A00.00
+Configuration revision		14
+CFG file MD5SUM			76909020300b7e8610da2347d40af53a
+DAT file MD5SUM			147cdbd950f7d98e3a5d681a2366534e

@@ -1,0 +1,27 @@
+Trigger				PPPA_TX  |  PPPA_RX
+Fault location
+	LT_ITC500		No fault
+Date				2020-09-29T21:03:56-0300
+Equipment			Ready
+Equipment synchronization		Locked
+Time quality			Locked
+Memory usage
+	Fault recorder		3.33%
+	Disturbance recorder		44.72%
+	Traveling wave recorder		89.97%
+	Steady-state recorder		6.65%
+	SOE recorder			4.97%
+	Log			15.13%
+Primary power			Good
+Battery				Charging...
+Temperature			37ºC
+Coolers
+	Enclosure 1		ok
+	Enclosure 2		ok
+	Processing module		ok
+	Power supply		ok
+Last power-up			2020-01-20T13:57:53-03:00
+Firmware version			RPV310-41A00.00
+Configuration revision		14
+CFG file MD5SUM			9109f162e5814e0e1092476613ef7fe2
+DAT file MD5SUM			c153773b93cc4ced9bacd16acc19401f

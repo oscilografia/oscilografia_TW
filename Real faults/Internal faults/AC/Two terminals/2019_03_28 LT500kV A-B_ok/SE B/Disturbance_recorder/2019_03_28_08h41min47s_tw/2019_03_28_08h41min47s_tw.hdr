@@ -1,0 +1,22 @@
+Trigger					SOTF_C
+Date					2019-03-28T08:44:04-0300
+Equipment				Ready
+Equipment synchronization		Locked
+Time quality			Locked
+Memory usage
+	Fault recorder		19.18%
+	Disturbance recorder		37.81%
+	Traveling wave recorder		67.56%
+	Steady-state recorder		3.27%
+	SOE recorder			4.07%
+	Log			24.44%
+Primary power				Good
+Battery					Charging...
+Temperature				31ºC
+Coolers
+	Enclosure 1			ok
+	Enclosure 2			ok
+	Processing module		ok
+	Power supply			ok
+Last power-up				2017-05-29T11:58:31-03:00
+Firmware version				RPV310-41A00.00

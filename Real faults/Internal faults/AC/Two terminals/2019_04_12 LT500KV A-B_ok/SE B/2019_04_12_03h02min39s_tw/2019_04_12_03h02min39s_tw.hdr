@@ -1,0 +1,22 @@
+Trigger					21N_P_C  |  21N_A_C  |  SOTF_C  |  TX_TDD_C
+Date					2019-04-12T03:04:56-0300
+Equipment				Ready
+Equipment synchronization		Locked
+Time quality			Locked
+Memory usage
+	Fault recorder		19.63%
+	Disturbance recorder		37.90%
+	Traveling wave recorder		68.11%
+	Steady-state recorder		3.27%
+	SOE recorder			4.08%
+	Log			23.87%
+Primary power				Good
+Battery					Charging...
+Temperature				29ºC
+Coolers
+	Enclosure 1			ok
+	Enclosure 2			ok
+	Processing module		ok
+	Power supply			ok
+Last power-up				2017-05-29T11:58:31-03:00
+Firmware version				RPV310-41A00.00

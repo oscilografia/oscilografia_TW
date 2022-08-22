@@ -1,0 +1,22 @@
+Trigger					PPPA_TX
+Date					2020-04-15T14:16:46-0300
+Equipment				Ready
+Equipment synchronization		Locked
+Time quality			Locked
+Memory usage
+	Fault recorder		89.99%
+	Disturbance recorder		2.77%
+	Traveling wave recorder		89.99%
+	Steady-state recorder		89.99%
+	SOE recorder			4.74%
+	Log			21.28%
+Primary power				Good
+Battery					Charging...
+Temperature				35ºC
+Coolers
+	Enclosure 1			ok
+	Enclosure 2			ok
+	Processing module		ok
+	Power supply			ok
+Last power-up				2018-09-28T10:10:25-03:00
+Firmware version				RPV310-41A00.00

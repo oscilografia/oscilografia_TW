@@ -1,0 +1,13 @@
+Trigger					SE_A_TRIP-A  |  SE_A_TRIP-B  |  SE_A_TRIP-C  |  ABC[I_SE_A] > 3000 A  |  N[I_SE_A] > 300 A  |  S-[I_SE_A] > 450 A  |  ABC[V_SE_A] < 0.87 PU  |  N[V_SE_A] > 0.1 PU
+Date					2016-08-23T13:03:51-0300
+Equipment				Ready
+Equipment synchronization		Locked
+Time quality			Locked
+Memory usage
+	Fault recorder		5.08%
+	Disturbance recorder		9.74%
+	Traveling wave recorder		19.34%
+	Steady-state recorder		3.27%
+	SOE recorder			3.46%
+	Log			16.18%
+Firmware version				RPV311-13A05.00

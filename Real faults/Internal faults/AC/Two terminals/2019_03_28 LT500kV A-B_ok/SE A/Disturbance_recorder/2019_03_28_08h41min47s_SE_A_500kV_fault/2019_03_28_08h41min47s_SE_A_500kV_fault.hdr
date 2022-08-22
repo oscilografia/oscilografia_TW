@@ -1,0 +1,27 @@
+Trigger				N[V_LT_SE_A_SE_B] > 0.07 PU  |  ABC[I_LT_SE_A_SE_B] > 3000 A  |  N[I_LT_SE_A_SE_B] > 200 A  |  ^21P_F  |  ^67NP_I_T  |  ^21A_F  |  ^67NA_I_T  |  ^RXTDDRGV  |  ^SOFTRGV
+Fault location
+	LT_SE_A_SE_B			ACG, 49.132 Km
+Date				2019-03-28T08:41:52-0300
+Equipment			Ready
+Equipment synchronization		Locked
+Time quality			Locked
+Memory usage
+	Fault recorder		2.92%
+	Disturbance recorder		19.56%
+	Traveling wave recorder		89.96%
+	Steady-state recorder		3.27%
+	SOE recorder			4.29%
+	Log			16.97%
+Primary power			Good
+Battery				Charging...
+Temperature			27ºC
+Coolers
+	Enclosure 1		ok
+	Enclosure 2		ok
+	Processing module		ok
+	Power supply		ok
+Last power-up			2017-05-08T08:33:57-03:00
+Firmware version			RPV310-41A00.00
+Configuration revision		20
+CFG file MD5SUM			545e91d3f51f804070c7f0c3e68fab30
+DAT file MD5SUM			eeba31c4c8b7616523f30602a3832c94

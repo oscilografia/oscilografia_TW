@@ -1,0 +1,22 @@
+Trigger					^RXTDD
+Date					2019-04-12T03:04:56-0300
+Equipment				Ready
+Equipment synchronization		Locked
+Time quality			Locked
+Memory usage
+	Fault recorder		2.93%
+	Disturbance recorder		19.64%
+	Traveling wave recorder		89.96%
+	Steady-state recorder		3.27%
+	SOE recorder			4.30%
+	Log			16.41%
+Primary power				Good
+Battery					Charging...
+Temperature				27ºC
+Coolers
+	Enclosure 1			ok
+	Enclosure 2			ok
+	Processing module		ok
+	Power supply			ok
+Last power-up				2017-05-08T08:33:57-03:00
+Firmware version				RPV310-41A00.00

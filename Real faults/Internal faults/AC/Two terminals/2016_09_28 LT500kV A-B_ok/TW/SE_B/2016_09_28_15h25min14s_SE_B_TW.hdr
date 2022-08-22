@@ -1,0 +1,13 @@
+Trigger					LT_SM_C3_TRIP_A  |  LT_SM_C3_TRIP_B  |  LT_SM_C3_TRIP_C  |  ABC[V_LTSMSB3] < 0.87 PU  |  ABC[I_LTSMSB3] > 3000 A  |  N[I_LTSMSB3] > 90 A  |  N[V_LTSMSB3] > 0.2 PU
+Date					2016-09-28T15:26:18-0300
+Equipment				Ready
+Equipment synchronization		Locked
+Time quality			Locked
+Memory usage
+	Fault recorder		4.49%
+	Disturbance recorder		5.06%
+	Traveling wave recorder		24.98%
+	Steady-state recorder		3.27%
+	SOE recorder			3.57%
+	Log			17.70%
+Firmware version				RPV311-12A00.00

@@ -1,0 +1,28 @@
+Trigger				PPPA_TX
+Fault location
+	LT_EXT_230			No fault
+	LT_SE_A_SE_B		CG, 0.004 Km
+Date				2020-09-29T21:04:01-0300
+Equipment			Ready
+Equipment synchronization		Locked
+Time quality			Locked
+Memory usage
+	Fault recorder		90.01%
+	Disturbance recorder		2.88%
+	Traveling wave recorder		89.88%
+	Steady-state recorder		89.99%
+	SOE recorder			4.84%
+	Log			20.98%
+Primary power			Good
+Battery				Charging...
+Temperature			34ºC
+Coolers
+	Enclosure 1		ok
+	Enclosure 2		ok
+	Processing module		ok
+	Power supply		ok
+Last power-up			2020-09-01T16:27:22-03:00
+Firmware version			RPV310-41A00.00
+Configuration revision		12
+CFG file MD5SUM			ca9724a22fb5716bc48ff86e765f8c79
+DAT file MD5SUM			a0206f1c1ea8380197c64f7de245eb00

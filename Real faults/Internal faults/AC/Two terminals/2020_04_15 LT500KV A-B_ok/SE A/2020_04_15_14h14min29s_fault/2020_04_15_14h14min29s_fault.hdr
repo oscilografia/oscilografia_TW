@@ -1,0 +1,28 @@
+Trigger				PPPA_TX
+Fault location
+	AT1_230			No fault
+	LT_COL500		ABG, 12.923 Km
+Date				2020-04-15T14:14:35-0300
+Equipment			Ready
+Equipment synchronization		Locked
+Time quality			Locked
+Memory usage
+	Fault recorder		90.01%
+	Disturbance recorder		2.77%
+	Traveling wave recorder		89.99%
+	Steady-state recorder		89.99%
+	SOE recorder			4.74%
+	Log			21.27%
+Primary power			Good
+Battery				Charging...
+Temperature			35ºC
+Coolers
+	Enclosure 1		ok
+	Enclosure 2		ok
+	Processing module		ok
+	Power supply		ok
+Last power-up			2018-09-28T10:10:25-03:00
+Firmware version			RPV310-41A00.00
+Configuration revision		12
+CFG file MD5SUM			21f0f6d9cb947b97b6906dd511bc3c25
+DAT file MD5SUM			7e1e4b718ff9586ac8f2691dede81600
