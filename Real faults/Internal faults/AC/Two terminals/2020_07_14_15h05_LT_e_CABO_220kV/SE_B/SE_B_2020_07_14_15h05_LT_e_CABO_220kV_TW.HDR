@@ -1,0 +1,58 @@
+
+LDif1                                      Date: 2020/07/14  Time: 15:05:49.904
+SE_B_SE_A 1                                  Serial Number: 1181170334
+
+Event: AG T              FLM: TW                              Time Source: HIRIG
+TW Location:  174.07(km) Z-Based Location:  100.00(ME)        From: LOCAL       
+Event Number: 12428      Shot 1P: 0   Shot 3P: 0        Freq: 49.97     Group: 1
+Targets: TLED_1 TLED_9 TLED_12 TLED_13 TLED_20
+Breaker 1: OPEN          Trip Time: 15:05:49.914
+Breaker 2: NA    
+PreFault:     IA     IB     IC     IG    3I2       VA       VB       VC    V1mem
+MAG(A/kV)    262    279    262     14     40  130.610  131.190  130.942  130.898
+ANG(DEG)    11.9 -108.2  126.6   -2.5  146.3      0.0   -120.2    119.8     -0.1
+
+Fault:
+MAG(A/kV)    885    189    341    631    989  104.444  126.927  122.269  123.724
+ANG(DEG)   -63.8 -134.0  115.0  -79.4  -80.9      1.0   -117.1    115.1      0.2
+
+                 87 Differential Currents
+PreFault:     IA     IB     IC     IQ     IG
+MAG(pu)     0.11   0.11   0.11   0.01   0.00 
+ANG(DEG)    86.7  -36.8 -158.7 -162.1  170.1 
+
+Fault:
+MAG(pu)    12.92   0.11   0.10  13.03  13.01 
+ANG(DEG)   -79.8  -33.5 -164.3  -80.0  -79.8 
+
+TW Fault Location Information
+TPKA  = 14/07/2020,15:05:49.892494379
+PPKA  = 0
+PKOKA = 1
+TPKB  = 14/07/2020,15:05:49.892493463
+PPKB  = 1
+PKOKB = 1
+TPKC  = 14/07/2020,15:05:49.892497300
+PPKC  = 1
+PKOKC = 1
+TWSPL = 2
+
+TW Fault Detector Information
+TWTSFD = 14/07/2020,15:05:49.892492051
+TWTSFD_channel = AW
+TWPOL  = 0, 1, 0, NA, NA, NA
+IIRFO  = 10.000014, 10.000014, 10.000014, NA, NA, NA
+
+TW Settings
+TWIW : 1
+TWIX : 0
+CTRW = 800
+CTRX = 800
+Line Length Units (mi,km) : KM
+Line Length for TW Fault Location (0.20-1000) : 198.40
+Secondary Cable Length in Meters (0-2000) : 324
+Propagation Vel.(pu in Speed of Light) (0.40000-1) : 0.98611
+Internal Fault Condition for TWFL (SELogic Eq.) = (COMPRM OR 87OP) AND TRIP
+
+MBID-MB6TWE
+
