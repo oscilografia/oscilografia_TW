@@ -1,0 +1,7 @@
+Falta Evolutiva
+
+Inicia monofásica
+Fase AN
+
+Passa para Bifásico-terra
+Fases ABN depois de 23,8 ms
